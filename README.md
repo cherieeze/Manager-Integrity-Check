@@ -6,7 +6,7 @@
 
 A pension plan that hires external managers has to keep checking that each one is still running the strategy it was hired for. This project builds a small version of that monitoring from public data. It measures what ten active US equity funds actually did, reads what their prospectuses say they do with two LLMs under explicit controls, and flags where the two disagree.
 
-**Status (22 November 2026):** Part 1, the measured side, is complete and its data is reconciled against published returns. Parts 2 and 3 are built and tested; the final extraction run and human verification of every extracted value are in progress, and their results will be added here by 27 November.
+**Status (22 November 2026):** Part 1, the measured side, is complete and its data is reconciled against published returns. Parts 2 and 3 are built and tested; the final extraction run and human verification of every extracted value are in progress, and their results will be added here soon.
 
 ![Rolling factor loadings for each fund](outputs/rolling_loadings.png)
 
