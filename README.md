@@ -8,7 +8,7 @@ A pension plan that hires external managers has to keep checking that each one i
 
 **Status (22 November 2026):** Part 1, the measured side, is complete and its data is reconciled against published returns. Parts 2 and 3 are built and tested; the final extraction run and human verification of every extracted value are in progress, and their results will be added here soon.
 
-![Rolling factor loadings for each fund](outputs/rolling_loadings.png)
+![Rolling factor loadings for each fund](output/rolling_loadings.png)
 
 ## Findings so far
 
